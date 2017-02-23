@@ -1,0 +1,7 @@
+c:\users\darth luce\documents\visual studio 2015\Projects\GZip.Project\ConsoleApplication3\bin\Debug\ConsoleApplication.exe.config
+c:\users\darth luce\documents\visual studio 2015\Projects\GZip.Project\ConsoleApplication3\bin\Debug\ConsoleApplication.exe
+c:\users\darth luce\documents\visual studio 2015\Projects\GZip.Project\ConsoleApplication3\bin\Debug\ConsoleApplication.pdb
+c:\users\darth luce\documents\visual studio 2015\Projects\GZip.Project\ConsoleApplication3\obj\Debug\ConsoleApplication.exe
+c:\users\darth luce\documents\visual studio 2015\Projects\GZip.Project\ConsoleApplication3\obj\Debug\ConsoleApplication.pdb
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\ConsoleApplication3\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\ConsoleApplication3\bin\Debug\GZipTest.exe.config

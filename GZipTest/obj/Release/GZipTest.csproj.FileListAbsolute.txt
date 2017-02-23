@@ -1,0 +1,6 @@
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\bin\Release\GZipTest.exe.config
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\bin\Release\GZipTest.exe
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\bin\Release\GZipTest.pdb
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\obj\Release\GZipTest.exe
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\obj\Release\GZipTest.pdb
+C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\obj\Release\GZipTest.csprojResolveAssemblyReference.cache

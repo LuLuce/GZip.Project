@@ -1,0 +1,2 @@
+cd C:\Users\Darth Luce\Documents\Visual Studio 2015\Projects\GZip.Project\GZipTest\bin\Debug
+GZipTest.exe compress SSHD.mkv SSHD.gz
